@@ -1,10 +1,10 @@
 1. Project Overview
-This project is a React-based web application that fetches product data from the DummyJSON API and displays it in a structured table format. The application allows users to view product details, edit product titles directly in the table, and dynamically load additional products using infinite scrolling.
+- This project is a React-based web application that fetches product data from the DummyJSON API and displays it in a structured table format. The application allows users to view product details, edit product titles directly in the table, and dynamically load additional products using infinite scrolling.
 
 2. Development Approach
-The project was developed using React with Vite to enable fast development and optimized builds. The application consists of two main components:
-App.jsx – The root component responsible for rendering the main layout.
-ProductTable.jsx – Handles API data fetching, table rendering, title editing, and infinite scrolling.
+- The project was developed using React with Vite to enable fast development and optimized builds. The application consists of two main components:
+- App.jsx – The root component responsible for rendering the main layout.
+- ProductTable.jsx – Handles API data fetching, table rendering, title editing, and infinite scrolling.
 
 3. State Management
 - React Hooks were used to manage the application state:
@@ -27,9 +27,8 @@ ProductTable.jsx – Handles API data fetching, table rendering, title editing, 
 
 7. Deployment
 The application was deployed using Vercel, which allows automatic builds and deployment directly from the GitHub repository.
-
-Live Application:
+- Live Application:
 https://product-dashboard-two-zeta.vercel.app/
 
-Source Code:
+- Source Code:
 https://github.com/aadarsh-101/React-Product-Dashboard
